@@ -5,4 +5,4 @@ This is a Demo Git and Github file
 Parthika Mahajan
 
 # Batch
-sigma 2.0
+sigma 2.0.
